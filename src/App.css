@@ -32,6 +32,26 @@ li > p {
   width: 50%;
 }
 
+.w100p {
+  width: 100%;
+}
+.mb-12 {
+  margin-bottom: 12px !important;
+}
+.content {
+  text-align: left;
+}
+.comment {
+  padding: 12px !important;
+}
+
+.comments {
+  width: 50% !important;
+  max-width: 50% !important;
+  margin: 0px auto !important;
+  background-color: cornsilk;
+}
+
 .card-1 {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
